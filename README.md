@@ -191,7 +191,7 @@ git push -u origin main
 
 ---
 
-## **🔬 K. Virtual Simulation (Short & Clear)**
+## **🔬 K. Virtual Simulation **
 ---
 
 This project simulates a real company HR system using synthetic data.
